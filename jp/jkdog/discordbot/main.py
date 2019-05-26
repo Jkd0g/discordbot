@@ -2,7 +2,7 @@ import discord
 import random
 import fileinput
 
-token = "NTgyMDE4NjQ0MDU0Mzc2NDYw.XOnu3Q.ievlqxpJ36QR088WKRNNRz_2g34"
+token = "***************************"
 
 client = discord.Client()
 
